@@ -37,6 +37,32 @@ All the tasks of the Glue
 
 AWS AThena - Adhoc Query Service
 
- 
+Preprocessing required, ETL , data cleaning before crawling the data as it did not work that great with JSON data;
+SerDe Libraries , Jason should be in one line, no spaces, no pre formatting.
+
+After cleaning the data , again run the crawler, 
+
+FOr cleaning we will write  a AWS Lambda.
 
 
+ AWS Wrangler, OR Library
+LEarn about the AWS LAmbda, limitations, 
+
+
+Server LEss architecture
+STep functions, LAmbda
+
+Route 53
+Cloudfront
+
+
+
+underscore prefferred for spark jobs
+
+AWS Glue Triggers, Initiates the ETL Jobs,
+The Trigger job, in detail, 
+
+  
+Cost Optimization, Refere the Notes from Ipad
+
+AWS Glue Dev Endpoints --- VERY EXPENSIVE.
